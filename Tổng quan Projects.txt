@@ -1,0 +1,92 @@
+﻿
+* Người dùng:  
+
+
+
+
+---  Tìm kiếm phòng theo một hoặc nhiều tiêu chí:   
+- Khu vực, địa chỉ
+													
+- Khoảng cách
+													
+- Thuê/ ở ghép
+													
+- Giới tính
+													
+- Tiện ích
+													
+- Giá 
+													
+- Số phòng ngủ
+													
+- Diện tích
+													
+- Số người ở
+
+
+--- Đăng phòng:  
+- Chọn và nhập thông tin phòng
+			 	 
+- Chụp hình phòng  -> Hình được chấp nhận: 
+- Là bối cảnh của căn phòng/ nhà
+			 	 											
+- Vị trí chụp hình phải tương đương với vị trí nhập thông tin địa chỉ	
+			 	 											
+- Chỉ lấy hình chụp trực tiếp bằng ứng dụng
+			 	 
+- Chỉnh sửa lại phòng đã đăng
+			 	 
+- Đăng tối đa 10 phòng và không thể xóa phòng (để tránh tình trạng trung gian phòng)
+
+
+
+---  Xem phòng chi tiết:  
+- Bình luận trong bài đăng
+                          
+- Nhắn tin riêng
+                          
+- Gọi điện liên hệ 
+                          
+- Đưa vào danh
+
+
+
+
+
+
+
+* Hệ thống:
+
+
+
+--- Ưu tiên những phòng mà người đăng tương tác nhiều trên ứng dụng lên đầu danh sách tìm kiếm
+
+
+--- Sau 14 ngày kể từ người đăng phòng online lần cuối, hệ thống không hiển thị lên danh sách tìm kiếm của người khác để đảm bảo người chủ nhà thường xuyên sử dụng app để cập nhật tin nhắn và trạng thái phòng, sau 10 ngày kể từ ngày online lần cuối sẽ gửi notifi và email về thông báo cho người đăng phòng.
+
+
+
+* Mục tiêu của ứng dụng: 
+
+
+--- Là ứng dụng trung gian giữa người cho thuê nhà và người thuê nhà đảm bảo: 
+
+    
++ Phòng luôn cập nhật chính xác về tình trạng phòng (cho thuê/chưa cho thuê)
+
+    
++ Đảm bảo hình và nhà thực tế giống nhau, tránh tính trạng lừa đảo( tránh trường hợp hình chụp và nhà thực tế hoàn toàn khác nhau nhờ định vị và phân tích hình ảnh)
+
+
+
+
+
+
+
+
+
+
+
+
+
+CÒN CHỨC NĂNG LỌC THEO GIÁ, KHU VỰC VỚI NHẮN TIN.
